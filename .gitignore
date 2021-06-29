@@ -3,9 +3,14 @@
 
 # Log file
 *.log
+*.db
 
 # BlueJ files
 *.ctxt
+
+# Direcory
+target/
+bin/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
